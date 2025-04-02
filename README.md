@@ -1,6 +1,6 @@
 # 🤖 AI Research Assistant Agent
 
-A Python-based AI agent that uses LangChain, OpenAI's GPT-3.5, Wikipedia, and DuckDuckGo tools to generate structured research summaries from user queries.
+A Python-based AI agent that uses LangChain, OpenAI's GPT-3.5, and Wikipedia tools to generate structured research summaries from user queries.
 
 ## 🔍 What It Does
 
